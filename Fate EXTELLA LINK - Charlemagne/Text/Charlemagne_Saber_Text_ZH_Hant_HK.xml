@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 1:47:24 AM -->
+<GameData>
+	<Language_ZH_Hant_HK>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_DESC">
+			<Text>帥氣的“法蘭克王國”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_SHORT_DESC">
+			<Text>“法蘭克”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_ADJECTIVE">
+			<Text>“法蘭克”的</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER">
+			<Text>查理曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_FACTOID_HEADINGD">
+			<Text>帥氣的“法蘭克王國”</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TITLE">
+			<Text>“法蘭克”</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_HEADING">
+			<Text>文明信息</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_TEXT">
+			<Text>這個文明是通過查理曼寶具虛擬化製成的，所以並沒有什麼資料。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_HEADING_1">
+			<Text>第二個寶具</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TEXT_1">
+			<Text>吾轉瞬即逝的榮光，一座巨大的空中要塞，在這裡，它創造了整個“法蘭克”。</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CHARLEMAGNE_SABER_FRANCIA_TEXT" >
+			<Text>一個無憂無慮的年輕人，有點直言不諱地說自己不太適合成為國王。他將審美標準和行為放在“這是酷還是不酷”上，即便會給禦主造成麻煩，甚至是對自己的一個缺點......儘管存在這種人格缺陷，但阿斯托爾福仍將查理曼描述為一個盡職盡責的仁慈之王。會與他的人民一起哭泣和欢笑，並幫助那些有需要的人。 </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY" >
+			<Text>雙倍法國、德國、羅馬文明特性。偉人獲取速度、黃金時代長度、城邦友好和城邦獎勵、奇觀和項目建造速度分別加成200%、150%、100%、50%。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY_SHORT" >
+			<Text>展示王勇遍歷巡世的十二輝劍</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_REAL_CAPITAL" >
+			<Text>查理曼的亞琛</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_1" >
+			<Text>衛宮的冬木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_2" >
+			<Text>貞德的奧爾良</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_3" >
+			<Text>德雷克的無盡之海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_4" >
+			<Text>尼祿的羅馬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_5" >
+			<Text>福爾摩斯的倫敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_6" >
+			<Text>愛迪生的美利堅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_7" >
+			<Text>阿爾托莉雅的卡美洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_8" >
+			<Text>吉爾伽美什的巴比倫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_9" >
+			<Text>所羅門的神殿</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_10" >
+			<Text>伊斯坎達爾的馬其頓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_11" >
+			<Text>奧茲曼迪亞斯的埃及</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_12" >
+			<Text>拿破侖的法蘭西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_13" >
+			<Text>武則天的中國</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_14" >
+			<Text>大衛的以色列</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_15" >
+			<Text>大流士三世的波斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_16" >
+			<Text>賽米拉米斯的亞述</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_17" >
+			<Text>阿提拉的匈奴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_18" >
+			<Text>艾蕾什基伽爾的冥界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHARLEMAGNE_SABER_FGO_19" >
+			<Text>BB的SE.RA.PH</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_1" >
+			<Text>羅蘭</Text>
+			<!-- 羅蘭 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_2" >
+			<Text>李拿度</Text>
+			<!-- 李拿度 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_3" >
+			<Text>托賓</Text>
+			<!-- 托賓 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_4" >
+			<Text>馬拉吉吉</Text>
+			<!-- 馬拉吉吉 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_5" >
+			<Text>奧吉爾</Text>
+			<!-- 奧吉爾 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_6" >
+			<Text>所羅門</Text>
+			<!-- 所羅門 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_7" >
+			<Text>阿斯托爾福</Text>
+			<!-- 阿斯托爾福 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_8" >
+			<Text>法華利亞</Text>
+			<!-- 法華利亞 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_9" >
+			<Text>斐蘭巴拉斯</Text>
+			<!-- 斐蘭巴拉斯 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_10" >
+			<Text>弗雷羅斯馬特</Text>
+			<!-- 弗雷羅斯馬特 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_11" >
+			<Text>奧利弗</Text>
+			<!-- 奧利弗 -->
+		</Row>
+		<Row Tag="TXT_KEY_CITIZEN_CHARLEMAGNE_SABER_MALE_12" >
+			<Text>加尼隆</Text>
+			<!-- 加尼隆 -->
+		</Row>
+
+
+
+		
+		
+		
+
+
+	</Language_ZH_Hant_HK>
+</GameData>

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# ModBuddy Solution File, Format Version 11.00
+Project("{F5FC21B5-7CC2-458A-ABBA-992F515BBA20}") = "Fate EXTELLA LINK - Charlemagne", "Fate EXTELLA LINK - Charlemagne\Fate EXTELLA LINK - Charlemagne.civ5proj", "{740F49F4-61B0-4DCA-B68E-2E7747290E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|x86 = Default|x86
+		Deploy Only|x86 = Deploy Only|x86
+		Package Only|x86 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Default|x86.ActiveCfg = Default|x86
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Default|x86.Build.0 = Default|x86
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Deploy Only|x86.Build.0 = Deploy Only|x86
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Package Only|x86.ActiveCfg = Package Only|x86
+		{740F49F4-61B0-4DCA-B68E-2E7747290E0E}.Package Only|x86.Build.0 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

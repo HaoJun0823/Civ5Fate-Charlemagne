@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 10:29:23 AM -->
+<GameData>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_DESC">
+			<Text>Handsome "Frankish Kingdom"</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_SHORT_DESC">
+			<Text>"Frank"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_ADJECTIVE">
+			<Text>"Frankish"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHARLEMAGNE_SABER">
+			<Text>Charlemagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CHARLEMAGNE_SABER_FRANCIA_FACTOID_HEADINGD">
+			<Text>Handsome "Frankish Kingdom"</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TITLE">
+			<Text>"Frank"</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_HEADING">
+			<Text>Civilization information</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_FACTOID_TEXT">
+			<Text>This civilization was made through the virtualization of Charlemagne, so there is no information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_HEADING_1">
+			<Text>Second treasure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CHARLEMAGNE_SABER_FRANCIA_PEDIA_TEXT_1">
+			<Text>Charles Patricius, a huge aerial fortress, here, it created the entire "Frank".</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CHARLEMAGNE_SABER_FRANCIA_TEXT" >
+			<Text>A carefree young man who somewhat bluntly says that he himself is not very suitable to be king. He places an aesthetic standard and behaviour on “whether this is cool or uncool”, even if that will be a handicap for the Master, or even a handicap to himself… Despite this personality flaw, Astolfo describes Charlemagne as a conscientiously benevolent king that would weep and laugh with his people and also help those who are in need.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY" >
+			<Text>Double the characteristics of French, German, and Roman civilization. Great man acquisition speed, golden age length, city-state friendship and city-state rewards, wonders and project construction speed are respectively increased by 200%, 150%, 100%, 50%.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY_SHORT" >
+			<Text>Joyeuse Ordre</Text>
+		</Row>
+
+
+
+
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_REAL_CAPITAL" >
+			<Text>Charle's Aachen</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_1" >
+			<Text>EMIYA's Fuyuki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_2" >
+			<Text>Joan's Orlean</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_3" >
+			<Text>Drake's Oceanus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_4" >
+			<Text>Nero's Rome</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_5" >
+			<Text>Holmes's London</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_6" >
+			<Text>Edison's America</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_7" >
+			<Text>Arturia's Camelot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_8" >
+			<Text>Gilgamesh's Babylonia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_9" >
+			<Text>Solomon's Temple</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_10" >
+			<Text>Iskandar's Macedonia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_11" >
+			<Text>Ozymandias's Egypt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_12" >
+			<Text>Napoleon's France</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_13" >
+			<Text>Wu Zetian's China</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_14" >
+			<Text>David's Israel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_15" >
+			<Text>Darius Ⅲ's Persia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_16" >
+			<Text>Semiramis's Assyria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_17" >
+			<Text>Artila's XiongNu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_18" >
+			<Text>Ereshkigal's ghostdom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLEMAGNE_SABER_FGO_19" >
+			<Text>BB's SE.RA.PH</Text>
+		</Row>
+
+
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_1" >
+			<Text>Roland</Text>
+			<!-- 罗兰 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_2" >
+			<Text>Rinaldo</Text>
+			<!-- 李拿度 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_3" >
+			<Text>Turpin</Text>
+			<!-- 托宾 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_4" >
+			<Text>Malagigi</Text>
+			<!-- 马拉吉吉 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_5" >
+			<Text>Ogier</Text>
+			<!-- 奥吉尔 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_6" >
+			<Text>Solomon</Text>
+			<!-- 所罗门 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_7" >
+			<Text>Astolpho</Text>
+			<!-- 阿斯托尔福 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_8" >
+			<Text>Favaria</Text>
+			<!-- 法华利亚 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_9" >
+			<Text>Fierambras</Text>
+			<!-- 斐兰巴拉斯 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_10" >
+			<Text>Florismart</Text>
+			<!-- 弗雷罗斯马特 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_11" >
+			<Text>Oliver</Text>
+			<!-- 奥利弗 -->
+		</Row>
+		<Row Tag="LOC_CITIZEN_CHARLEMAGNE_SABER_MALE_12" >
+			<Text>Ganelon</Text>
+			<!-- 加尼隆 -->
+		</Row>
+
+
+
+
+
+
+	</Language_en_US>
+</GameData>

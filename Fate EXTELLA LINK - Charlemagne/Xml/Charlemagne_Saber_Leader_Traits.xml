@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/27/2018 12:21:40 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_CHARLEMAGNE_SABER_ABILITY</Type>
+			<Description>TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CHARLEMAGNE_SABER_ABILITY_SHORT</ShortDescription>
+
+			<!--
+			<CapitalThemingBonusModifier>200</CapitalThemingBonusModifier>
+			
+			<CapitalBuildingModifier>50</CapitalBuildingModifier>
+			
+			<LandBarbarianConversionPercent>100</LandBarbarianConversionPercent>
+			<LandUnitMaintenanceModifier>-50</LandUnitMaintenanceModifier>
+			
+			<GreatPeopleRateModifier>100</GreatPeopleRateModifier>
+
+			<GoldenAgeDurationModifier>75</GoldenAgeDurationModifier>
+
+			<CityStateBonusModifier>50</CityStateBonusModifier>
+			<CityStateFriendshipModifier>50</CityStateFriendshipModifier>
+
+			<MaxGlobalBuildingProductionModifier>25</MaxGlobalBuildingProductionModifier>
+			<MaxTeamBuildingProductionModifier>25</MaxTeamBuildingProductionModifier>
+			<MaxPlayerBuildingProductionModifier>25</MaxPlayerBuildingProductionModifier>
+			-->
+
+
+			<LevelExperienceModifier>0</LevelExperienceModifier>
+			
+			<GreatPeopleRateModifier>200</GreatPeopleRateModifier>
+			
+			<GreatScientistRateModifier>0</GreatScientistRateModifier>
+			<GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+			<GreatGeneralExtraBonus>0</GreatGeneralExtraBonus>
+			<GreatPersonGiftInfluence>0</GreatPersonGiftInfluence>
+			
+			<MaxGlobalBuildingProductionModifier>50</MaxGlobalBuildingProductionModifier>
+			<MaxTeamBuildingProductionModifier>50</MaxTeamBuildingProductionModifier>
+			<MaxPlayerBuildingProductionModifier>50</MaxPlayerBuildingProductionModifier>
+			
+			<CityUnhappinessModifier>0</CityUnhappinessModifier>
+			<PopulationUnhappinessModifier>0</PopulationUnhappinessModifier>
+			
+			<CityStateBonusModifier>100</CityStateBonusModifier>
+			<CityStateFriendshipModifier>100</CityStateFriendshipModifier>
+			
+			<CityStateCombatModifier>0</CityStateCombatModifier>
+			
+			<LandBarbarianConversionPercent>100</LandBarbarianConversionPercent>
+			<LandBarbarianConversionExtraUnits>0</LandBarbarianConversionExtraUnits>
+			
+			<SeaBarbarianConversionPercent>0</SeaBarbarianConversionPercent>
+			<LandUnitMaintenanceModifier>-50</LandUnitMaintenanceModifier>
+			<NavalUnitMaintenanceModifier>0</NavalUnitMaintenanceModifier>
+			
+			<CapitalBuildingModifier>50</CapitalBuildingModifier>
+			
+			<PlotBuyCostModifier>0</PlotBuyCostModifier>
+			<PlotCultureCostModifier>0</PlotCultureCostModifier>
+			<CultureFromKills>0</CultureFromKills>
+			<CityCultureBonus>0</CityCultureBonus>
+			
+			<CapitalThemingBonusModifier>200</CapitalThemingBonusModifier>
+			
+			<PolicyCostModifier>0</PolicyCostModifier>
+			<CityConnectionTradeRouteChange>0</CityConnectionTradeRouteChange>
+			<WonderProductionModifier>0</WonderProductionModifier>
+			<PlunderModifier>0</PlunderModifier>
+			<ImprovementMaintenanceModifier>0</ImprovementMaintenanceModifier>
+			
+			<GoldenAgeDurationModifier>150</GoldenAgeDurationModifier>
+			
+			<GoldenAgeMoveChange>0</GoldenAgeMoveChange>
+			<GoldenAgeCombatModifier>0</GoldenAgeCombatModifier>
+			<GoldenAgeTourismModifier>0</GoldenAgeTourismModifier>
+			<GoldenAgeGreatArtistRateModifier>0</GoldenAgeGreatArtistRateModifier>
+			<GoldenAgeGreatMusicianRateModifier>0</GoldenAgeGreatMusicianRateModifier>
+			<GoldenAgeGreatWriterRateModifier>0</GoldenAgeGreatWriterRateModifier>
+			<ExtraEmbarkMoves>0</ExtraEmbarkMoves>
+			<NaturalWonderFirstFinderGold>0</NaturalWonderFirstFinderGold>
+			<NaturalWonderSubsequentFinderGold>0</NaturalWonderSubsequentFinderGold>
+			<NaturalWonderYieldModifier>0</NaturalWonderYieldModifier>
+			<NaturalWonderHappinessModifier>0</NaturalWonderHappinessModifier>
+			<NearbyImprovementCombatBonus>0</NearbyImprovementCombatBonus>
+			<NearbyImprovementBonusRange>0</NearbyImprovementBonusRange>
+			<CultureBuildingYieldChange>0</CultureBuildingYieldChange>
+			<CombatBonusVsHigherTech>0</CombatBonusVsHigherTech>
+			<CombatBonusVsLargerCiv>0</CombatBonusVsLargerCiv>
+			<RazeSpeedModifier>0</RazeSpeedModifier>
+			<DOFGreatPersonModifier>0</DOFGreatPersonModifier>
+			<LuxuryHappinessRetention>0</LuxuryHappinessRetention>
+			<ExtraSpies>0</ExtraSpies>
+			<UnresearchedTechBonusFromKills>0</UnresearchedTechBonusFromKills>
+			<ExtraFoundedCityTerritoryClaimRange>0</ExtraFoundedCityTerritoryClaimRange>
+			<FreeSocialPoliciesPerEra>0</FreeSocialPoliciesPerEra>
+			<NumTradeRoutesModifier>0</NumTradeRoutesModifier>
+			<TradeRouteResourceModifier>0</TradeRouteResourceModifier>
+			<UniqueLuxuryCities>0</UniqueLuxuryCities>
+			<UniqueLuxuryQuantity>0</UniqueLuxuryQuantity>
+			<WorkerSpeedModifier>0</WorkerSpeedModifier>
+			<AfraidMinorPerTurnInfluence>0</AfraidMinorPerTurnInfluence>
+			<LandTradeRouteRangeBonus>0</LandTradeRouteRangeBonus>
+			<TradeReligionModifier>0</TradeReligionModifier>
+			<TradeBuildingModifier>0</TradeBuildingModifier>
+			<FightWellDamaged>0</FightWellDamaged>
+			<MoveFriendlyWoodsAsRoad>0</MoveFriendlyWoodsAsRoad>
+			<FasterAlongRiver>0</FasterAlongRiver>
+			<FasterInHills>0</FasterInHills>
+			<EmbarkedAllWater>0</EmbarkedAllWater>
+			<EmbarkedToLandFlatCost>0</EmbarkedToLandFlatCost>
+			<NoHillsImprovementMaintenance>0</NoHillsImprovementMaintenance>
+			<TechBoostFromCapitalScienceBuildings>0</TechBoostFromCapitalScienceBuildings>
+			<StaysAliveZeroCities>0</StaysAliveZeroCities>
+			<FaithFromUnimprovedForest>0</FaithFromUnimprovedForest>
+			<BonusReligiousBelief>0</BonusReligiousBelief>
+			<AbleToAnnexCityStates>0</AbleToAnnexCityStates>
+			<CrossesMountainsAfterGreatGeneral>0</CrossesMountainsAfterGreatGeneral>
+			<MayaCalendarBonuses>0</MayaCalendarBonuses>
+			<NoAnnexing>0</NoAnnexing>
+			<TechFromCityConquer>0</TechFromCityConquer>
+			<UniqueLuxuryRequiresNewArea>0</UniqueLuxuryRequiresNewArea>
+			<RiverTradeRoad>0</RiverTradeRoad>
+			<AngerFreeIntrusionOfCityStates>0</AngerFreeIntrusionOfCityStates>
+			<FreeUnit></FreeUnit>
+			<FreeUnitPrereqTech></FreeUnitPrereqTech>
+			<CombatBonusImprovement></CombatBonusImprovement>
+			<FreeBuilding></FreeBuilding>
+			<FreeBuildingOnConquest></FreeBuildingOnConquest>
+			<ObsoleteTech></ObsoleteTech>
+			<PrereqTech></PrereqTech>
+		
+
+		</Row>
+		</Traits>
+</GameData>
